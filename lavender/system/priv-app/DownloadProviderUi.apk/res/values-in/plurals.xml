@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Hapus %d tugas?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%1$d unduhan dihapus</item>
+    </plurals>
+</resources>
